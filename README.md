@@ -26,4 +26,4 @@ In a remote work environment, manual user provisioning and workstation configura
 ## 💡 Technical Takeaways & Problem Solving
 * *Error Handling:* Implemented robust try-catch blocks within script operations to ensure a single corrupted database entry doesn't stall global directory modifications.
 * *Security First:* Enforced strict parameter controls, ensuring corporate administrative passwords are never hardcoded into active deployment files.
-*
+
